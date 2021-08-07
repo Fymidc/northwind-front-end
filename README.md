@@ -3,4 +3,5 @@
 **React.js
 **redux
 **semantic-ui 
-**Formik Yup
+**Formik
+**Yup
